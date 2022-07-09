@@ -13,12 +13,11 @@
 }
 
 .main-visual-text{
-  padding-left: 20px;
-  padding-top: 20px;
+  padding: 20px;
 }
 
 main{
-  width:840px;
+  width: 840px;
   margin: 50px auto;
 }
 
@@ -43,5 +42,4 @@ main{
 .service4{
   border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
-  margin-bottom: 50px;
 }
